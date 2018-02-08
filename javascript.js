@@ -131,3 +131,5 @@
 //   alert("you are Pearl Class")
 // }
 
+// FUNCTION WITH PARAMETER/ARGUMENT
+

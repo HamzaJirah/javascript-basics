@@ -130,3 +130,5 @@
 function pearlClass (){
   alert("you are Pearl Class")
 }
+
+pearlClass();

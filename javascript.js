@@ -128,5 +128,5 @@
 // FUNCTIONS(grouping all related statements together; while calling the name of the function to invoke the statements in it)
 
 function pearlClass (){
-  
+  alert("you are Pearl Class")
 }

@@ -131,5 +131,5 @@
 //   alert("you are Pearl Class")
 // }
 
-// FUNCTION WITH PARAMETER/ARGUMENT
+// FUNCTION WITH PARAMETER/ARGUMENT(a variable that could be used within a function)
 

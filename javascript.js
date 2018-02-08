@@ -124,3 +124,5 @@
 //   if(i % 2 == 0)
 //   console.log(i)
 // }
+
+// FUNCTIONS(grouping all related statements together; while calling the name of the function to invoke the statements in it)

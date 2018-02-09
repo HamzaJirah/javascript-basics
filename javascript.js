@@ -143,5 +143,5 @@
 
 // FUNCTION WITH MULTIPLE PARAMETERS
 function addNums(num1, num2){
-  
+  var answer = num1 + num2
 }

@@ -133,7 +133,7 @@
 
 // FUNCTION WITH PARAMETER/ARGUMENT(a variable that could be used within a function)
 
-function alertMessage(){
+function alertMessage(pearl){
 
 }
 

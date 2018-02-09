@@ -190,3 +190,17 @@
 //   default:
 //     alert("you scored way more than the pass mark " + enterNumber);
 // }
+
+function addNumbers(a, b){
+  var answer = a * b;
+  document.write(answer + "<br>");
+  return(answer);
+}
+ var result =addNumbers(3, 3);
+
+ function addFig(c, result){
+   var sum = c + result;
+   document.write(sum);
+ }
+
+ addFig(9, result)

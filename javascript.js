@@ -142,3 +142,6 @@
 // alertMessage("are you cool?")
 
 // FUNCTION WITH MULTIPLE PARAMETERS
+function addNums(num1, num2){
+  
+}

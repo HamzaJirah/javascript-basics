@@ -170,23 +170,23 @@
 //     alert("the person is not a student");
 // }
 
-var enterNumber = Number(prompt("what is your score?"));
+// var enterNumber = Number(prompt("what is your score?"));
 
-switch(enterNumber){
-  case 1:
-  case 2:
-  case 3:
-  case 4:
-  case 5:
-    alert("you have failed since you scored " + enterNumber);
-    break;
-  case 6:
-  case 7:
-  case 8:
-  case 9:
-  case 10:
-    alert("you have pass since you scored " + enterNumber);
-    break;
-  default:
-    alert("you scored way more than the pass mark " + enterNumber);
-}
+// switch(enterNumber){
+//   case 1:
+//   case 2:
+//   case 3:
+//   case 4:
+//   case 5:
+//     alert("you have failed since you scored " + enterNumber);
+//     break;
+//   case 6:
+//   case 7:
+//   case 8:
+//   case 9:
+//   case 10:
+//     alert("you have pass since you scored " + enterNumber);
+//     break;
+//   default:
+//     alert("you scored way more than the pass mark " + enterNumber);
+// }

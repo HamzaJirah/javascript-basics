@@ -137,3 +137,6 @@ function alertMessage(pearl){
   alert(pearl)
 }
 
+alertMessage("hey, i greet you");
+alertMessage("how is it going")
+alertMessage("are you cool?")

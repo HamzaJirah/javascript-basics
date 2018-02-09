@@ -154,18 +154,18 @@
 // SWITCH STATEMENT USING A STRING
 // var student = "chima";
 
-var enterName = prompt("What is your name?")
+// var enterName = prompt("What is your name?")
 
-switch(enterName){
-  case "chuks":
-    alert("he is the class rep");
-    break;
-  case "chima":
-    alert("he is a corper");
-    break;
-  case "fati":
-    alert("she is a quite girl");
-    break;
-  default:
-    alert("the person is not a student");
-}
+// switch(enterName){
+//   case "chuks":
+//     alert("he is the class rep");
+//     break;
+//   case "chima":
+//     alert("he is a corper");
+//     break;
+//   case "fati":
+//     alert("she is a quite girl");
+//     break;
+//   default:
+//     alert("the person is not a student");
+// }
